@@ -1,6 +1,6 @@
 {
   "name": "nivora-public",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "private": true,
   "license": "UNLICENSED",
   "description": "The official Nivora download website and wiki. Contains no browser application source.",
