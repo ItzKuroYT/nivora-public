@@ -16,7 +16,7 @@ Windows Setup supports application updates in 2.1+. Portable is updated manually
 
 ## Hosting
 
-The GitHub Pages workflow deploys `dist/` on changes to main. Set repository Settings â†’ Pages â†’ Source to **GitHub Actions**. Configured custom domain: https://nivora.iconrealms.net/ . The GitHub Pages project address redirects to that domain. All local links are relative so the GitHub Pages project subpath works.
+The GitHub Pages workflow deploys `dist/` on changes to main. Set repository Settings → Pages → Source to **GitHub Actions**. Configured custom domain: https://nivora.iconrealms.net/ . The GitHub Pages project address redirects to that domain. All local links are relative so the GitHub Pages project subpath works.
 
 For **Vercel**, import this repository, use the Other framework preset, build command `npm run build`, and output directory `dist`. `vercel.json` supplies these settings and security headers. Add `nivora.iconrealms.net` to the Vercel project and set the DNS record specified by Vercel in your domain provider. The domain is planned and is not provisioned by committing this code. No installer upload to Vercel is necessary; downloads remain on GitHub.
 
