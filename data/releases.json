@@ -21,9 +21,14 @@
     },
     "linux": {
       "name": "Linux",
-      "status": "planned",
-      "description": "AppImage and DEB builds are configured for Linux x64. The download appears when a Linux release is published.",
-      "url": ""
+      "status": "available",
+      "description": "Linux x64 desktop preview. Use AppImage for automatic updates; a DEB package is also available in official releases. Tested in Ubuntu CI; other distributions need validation.",
+      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.1.0/Nivora-Browser-2.1.0-x86_64.AppImage",
+      "format": "AppImage · x64",
+      "file": "Nivora-Browser-2.1.0-x86_64.AppImage",
+      "sha256": "3a97a7aaffe981d4b74fe9e2e6df5ad95f5a32f07e05749192301037823e486f",
+      "bytes": 132172690,
+      "version": "2.1.0"
     },
     "ios": {
       "name": "iOS",
