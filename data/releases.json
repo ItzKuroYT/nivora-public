@@ -1,27 +1,27 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "platforms": {
     "windows": {
       "name": "Windows",
       "status": "available",
       "description": "The desktop browser for Windows x64. Choose the installer for automatic updates, or portable for a standalone launcher.",
       "format": "Setup EXE",
-      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.0/Nivora-Browser-Setup-2.3.0.exe",
-      "portableURL": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.0/Nivora-Browser-Portable-2.3.0.exe",
-      "sha256": "259809bf33f161fca27d80b149275bacb8a3ab93ede106e8cd9347f96c23dba3",
-      "bytes": 116935985,
-      "version": "2.3.0",
-      "file": "Nivora-Browser-Setup-2.3.0.exe"
+      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.1/Nivora-Browser-Setup-2.3.1.exe",
+      "portableURL": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.1/Nivora-Browser-Portable-2.3.1.exe",
+      "sha256": "7097ee59f30940f3b9c4434b21200abf08fa711f117ea4a39b0518f647c562cb",
+      "bytes": 116936236,
+      "version": "2.3.1",
+      "file": "Nivora-Browser-Setup-2.3.1.exe"
     },
     "mac": {
       "name": "Mac",
       "status": "available",
       "description": "Unsigned universal desktop preview for Intel and Apple silicon. Packaged launch passed on a Mac CI runner. Not notarized; updates are manual.",
-      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.0/Nivora-Browser-2.3.0-universal.dmg",
-      "version": "2.3.0",
-      "file": "Nivora-Browser-2.3.0-universal.dmg",
-      "bytes": 239342851,
-      "sha256": "efc34f98a4945593b79a5083d8e15c076f0bb7e80c48e86a7f82027d825b781a",
+      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.1/Nivora-Browser-2.3.1-universal.dmg",
+      "version": "2.3.1",
+      "file": "Nivora-Browser-2.3.1-universal.dmg",
+      "bytes": 239343030,
+      "sha256": "122c0d56af0edcad5eb0470900272908110483906a7407072c6780af133e1391",
       "format": "DMG · Intel & Apple silicon",
       "preview": true
     },
@@ -29,12 +29,12 @@
       "name": "Linux",
       "status": "available",
       "description": "Linux x64 desktop preview. Use AppImage for automatic updates; a DEB package is also available in official releases. Tested in Ubuntu CI; other distributions need validation.",
-      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.0/Nivora-Browser-2.3.0-x86_64.AppImage",
+      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.3.1/Nivora-Browser-2.3.1-x86_64.AppImage",
       "format": "AppImage · x64",
-      "file": "Nivora-Browser-2.3.0-x86_64.AppImage",
-      "sha256": "5d077afa721d6b3724f27cdb82ba1569de206ff61802cbc34c61702531491113",
-      "bytes": 134190313,
-      "version": "2.3.0"
+      "file": "Nivora-Browser-2.3.1-x86_64.AppImage",
+      "sha256": "2bc7da086fe403dcb53804436d9d5ae083f776e6b9341ba487d396b1dc108028",
+      "bytes": 134190285,
+      "version": "2.3.1"
     },
     "ios": {
       "name": "iOS",
