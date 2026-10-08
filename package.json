@@ -1,9 +1,15 @@
 {
   "name": "nivora-public",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "private": true,
   "license": "UNLICENSED",
   "description": "The official Nivora download website and wiki. Contains no browser application source.",
-  "scripts": {"dev":"node scripts/serve.cjs","build":"node scripts/build.cjs","test":"node --test test/*.test.cjs"},
-  "engines": {"node": ">=22"}
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "build": "node scripts/build.cjs",
+    "test": "node --test test/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
 }
