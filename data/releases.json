@@ -1,0 +1,41 @@
+{
+  "version": "2.1.0",
+  "platforms": {
+    "windows": {
+      "name": "Windows",
+      "status": "available",
+      "description": "The desktop browser for Windows x64. Choose the installer for automatic updates, or portable for a standalone launcher.",
+      "format": "Setup EXE",
+      "url": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.1.0/Nivora-Browser-Setup-2.1.0.exe",
+      "portableURL": "https://github.com/ItzKuroYT/nivora-public/releases/download/v2.1.0/Nivora-Browser-Portable-2.1.0.exe",
+      "sha256": "157360d3c19dfa995e441d9a1e220c927f00e6bfcb0844abdd53b7aeccb76bf8",
+      "bytes": 116231362,
+      "version": "2.1.0",
+      "file": "Nivora-Browser-Setup-2.1.0.exe"
+    },
+    "mac": {
+      "name": "Mac",
+      "status": "planned",
+      "description": "A desktop build for Intel and Apple silicon is configured. Downloads appear when a signed Mac release is published.",
+      "url": ""
+    },
+    "linux": {
+      "name": "Linux",
+      "status": "planned",
+      "description": "AppImage and DEB builds are configured for Linux x64. The download appears when a Linux release is published.",
+      "url": ""
+    },
+    "ios": {
+      "name": "iOS",
+      "status": "planned",
+      "description": "A native Nivora browser for iPhone and iPad is planned. The optional web companion is separate from a native iOS app.",
+      "url": ""
+    },
+    "android": {
+      "name": "Android",
+      "status": "planned",
+      "description": "A native Nivora browser for Android is planned. There is no APK or Play Store release available yet.",
+      "url": ""
+    }
+  }
+}

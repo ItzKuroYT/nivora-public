@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nivora.iconrealms.net/sitemap.xml
